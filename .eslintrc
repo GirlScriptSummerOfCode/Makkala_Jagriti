@@ -7,6 +7,9 @@
         "modules": true
     }
   },
+  "globals": {
+    "graphql": true
+  },
   "rules":{
     "import/no-unresolved": "off",
     "react/require-default-props": [0 ,true],
